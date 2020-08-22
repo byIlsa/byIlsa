@@ -20,4 +20,4 @@
                    
  * Have been building websites for fun for many years, had many misconceptions about doing this fulltime and professional. Turned 40 and                                decided to do just that:)
  
-                   * MS has been my companion for more than 15 years. Had it BAD. I mean, wheelchair, move to accessible house and all. Went keto/carnivore with                          intermittend fasting for a little over of two years ago, lost a consideral amount of weight, stopped all but one medication and ditched the                          wheelchair! 
+ * MS has been my companion for more than 15 years. Had it BAD. I mean, wheelchair, move to accessible house and all. Went keto/carnivore with                          intermittend fasting for a little over of two years ago, lost a consideral amount of weight, stopped all but one medication and ditched the                          wheelchair! 
