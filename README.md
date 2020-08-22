@@ -11,7 +11,6 @@
 - 💬 Ask me about doin' a career 180, being a female in tech, being a bit older than your average developer and still having a drive, live in general. Always up for some good mental sparring :)
 
 - 📫 How to reach me: * [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal-664231138/)
-
                       * Look me up on Telegram by searching for @Aukje (I promise I won't bite)
     
 - ⚡ Fun facts:       * Have been building websites for fun for many years, had many misconceptions about doing this fulltime and professional. Turned 40 and                               decided to do just that:)
