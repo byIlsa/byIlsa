@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- Preparing for third milestone project which will be an app, using Python and Flask.
 
-- 🔭 I’m currently working on my second milestone project for the full stack web developer course from Code Institute! [WAY](https://github.com/byIlsa/WAY)
+- 🔭 I’m currently working on my second milestone project for the full stack web developer course from Code Institute! [WAY](https://github.com/byIlsa/WAY)    **Finished!**
 
-- 🌱 I’m currently learning JavaScript and maybe even more important; how to ask questions effectively and google, google, GOOGLE!
+- 🌱 I’m currently learning Python and Flask
 
 - 👯 I’m looking to collaborate on (health care related) newbie projects.
  
