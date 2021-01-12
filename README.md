@@ -15,7 +15,6 @@
 
 * [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal-664231138/)
                    
-* Look me up on Telegram by searching for @Aukje (I promise I won't bite)
     
 **- ⚡ Fun facts:**       
                    
