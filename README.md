@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Preparing for third milestone project which will be an app, using Python and Flask.
+- ~~Preparing~~ Finishing touches for third milestone project which will be an app, using Python and Flask.
 
 - 🔭 I’m currently working on my second milestone project for the full stack web developer course from Code Institute! [WAY](https://github.com/byIlsa/WAY)    **Finished!**
 
