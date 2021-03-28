@@ -1,20 +1,43 @@
-### Hi there 👋
+### Hi there my name is Aukje 👋
 
-- OMG! Final Project commensing! Almost done with course 
-- ~~Preparing~~ ~~Finishing~~ touches for third milestone project which will be an app, using Python and Flask.
+🧩 Junior Full Stack Developer and Channel Lead
 
-- 🔭 I’m currently working on my second milestone project for the full stack web developer course from Code Institute! [WAY](https://github.com/byIlsa/WAY)    **Finished!**
+🎓 Currently completing my associates degree in software development with Code Institute.
 
-- 🌱 I’m currently learning Python, Django and Stripe.
+🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
 
-- 👯 I’m looking to collaborate on (health care related) newbie projects.
- 
-- 🤔 I’m looking for help with 
+Currently working on:
+
+[Dark Luna](https://github.com/byIlsa/dark-luna)
+
+
+Finished Projects:
+
+🖋️ [Story Chain](https://github.com/byIlsa/story-chain)
+
+🎮 [WAY](https://github.com/byIlsa/WAY)
+
+♀️ [Aloy from outcast to heroine](https://github.com/byIlsa/Aloy-from-outcast-to-heroine)
+
+As Channel Lead:
+
+👩‍🏫 [Api fetch and display](https://github.com/byIlsa/Api-live-coding-session)
+
+About me:
+
+``` JavaScript
+const aukje = {
+ code: [JavaScript, HTML, CSS, Python],
+ tools: [Bootstrap, Django, Heroku, Flask, Stripe, Materialize, Bulma],
+ versionControle: [GIT, github, gitlab]
+ }
+ ```
+
 - 💬 Ask me about doin' a career 180, being a female in tech, being a bit older than your average developer and still having a drive, live in general. Always up for some good mental sparring :)
 
 **- 📫 How to reach me:**
 
-* [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal-664231138/)
+* [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal/)
                    
     
 **- ⚡ Fun facts:**       
