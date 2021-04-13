@@ -6,7 +6,7 @@
 
 🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
 
-Currently working on:
+### Currently working on
 
 [Dark Luna](https://github.com/byIlsa/dark-luna)
 
@@ -19,17 +19,17 @@ Currently working on:
 
 ♀️ [Aloy from outcast to heroine](https://github.com/byIlsa/Aloy-from-outcast-to-heroine)
 
-### As Channel Lead:
+### As Channel Lead
 
 👩‍🏫 [Api fetch and display](https://github.com/byIlsa/Api-live-coding-session)
 
-### ⚡ Fun facts:       
+### ⚡ Fun facts       
                    
  * Have been building websites for fun for many years, had many misconceptions about doing this fulltime and professional. Turned 40 and                                decided to do just that:)
  
  * MS has been my companion for more than 15 years. Had it BAD. I mean, wheelchair, move to accessible house and all. Went keto/carnivore with                          intermittend fasting for a little over of two years ago, lost a consideral amount of weight, stopped all but one medication and ditched the                          wheelchair! 
 
-### 📫 How to reach me:**
+### 📫 How to reach me
 
 * [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal/)
 
