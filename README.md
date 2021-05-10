@@ -2,11 +2,13 @@
 
 🧩 Junior Full Stack Developer and Channel Lead
 
-🎓 Currently completing my associates degree in software development with Code Institute.
+🎓 Completed my associates degree in software development with Code Institute.
+
+Looking for a position where I can solidify my current knowledge and gain more!
 
 🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
 
-### Currently working on
+### Finished!
 
 [Dark Luna](https://github.com/byIlsa/dark-luna)
 
