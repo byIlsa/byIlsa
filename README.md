@@ -1,76 +1,26 @@
 ## All repositories will be maintained on [GitLab](https://gitlab.com/Aukje)
 
 
-### Hi there my name is Aukje 👋
+### Declaration
 
-🧩 Junior Full Stack Developer and Channel Lead
+Now that GitHub CoPilot is here and more and more people seem to think this is a good idea, I feel forced to move all my code to GitLab. Now I do not think moving my code will prevent CoPilot from using my code. As soon as code is published under open source licenses, it can potentially be (mis!)used by things like CoPilot.
 
-🎓 Completed my associates degree in software development with Code Institute.
+I am moving my code, because I dont think this is a good idea and I do see a lot of (potential) issues coming from this and I will try and stay away from actively killing the developer job as much as I can.
 
-Looking for a position where I can solidify my current knowledge and gain more!
+If you want to know more about the dark side of GitHub Co-Pilot and why you should stay away from it, I have two YouTube video's you could watch as a good starting point.
 
-🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
+Don't believe the hype. Research and think for yourself.
 
-### Finished!
+Be save.
 
-[Dark Luna](https://github.com/byIlsa/dark-luna)
+Aukje
 
+**The Truth about Github Copilot // AI Programming First Look**
 
-### Finished Projects:
+https://www.youtube.com/watch?v=4duqI8WyfqE
 
-🖋️ [Story Chain](https://github.com/byIlsa/story-chain)
+**Please Don't Use GitHub Copilot**
 
-🎮 [WAY](https://github.com/byIlsa/WAY)
+https://www.youtube.com/watch?v=b9u3ZAGQmT0
 
-♀️ [Aloy from outcast to heroine](https://github.com/byIlsa/Aloy-from-outcast-to-heroine)
-
-### As Channel Lead
-
-👩‍🏫 [Api fetch and display](https://github.com/byIlsa/Api-live-coding-session)
-
-### ⚡ Fun facts       
-                   
- * Have been building websites for fun for many years, had many misconceptions about doing this fulltime and professional. Turned 40 and                                decided to do just that:)
- 
- * MS has been my companion for more than 15 years. Had it BAD. I mean, wheelchair, move to accessible house and all. Went keto/carnivore with                          intermittend fasting for a little over of two years ago, lost a consideral amount of weight, stopped all but one medication and ditched the                          wheelchair! 
-
-### 📫 How to reach me
-
-* [LinkedIn](https://www.linkedin.com/in/aukje-van-der-wal/)
-
-### 🔧 Technologies & Tools
- #### Languages
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
-
- #### Libraries and Frameworks
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
-![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
-![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
-![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-
- #### Version Control, Hosting & other tech and tools 
- ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
- [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/irinatu17)
- ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
-
-<br />
-<br />
-
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=byIlsa&show_icons=true&hide_border=true" />
-
-<br />
-<br />
 
